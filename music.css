@@ -1,0 +1,19 @@
+.background{
+    background: url(background/1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.add-btn{
+    position: absolute;;
+    bottom: 30px;
+    right: 30px;
+}

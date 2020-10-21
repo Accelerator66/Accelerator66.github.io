@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Music</title>
+    <link rel="stylesheet" href="mdl/material.min.css">
+    <script src="mdl/material.min.js"></script>
+    <link rel="stylesheet" href="music.css">
+  </head>
+  <body style="background-color: black" class="background">
+    <canvas id="info" class="center" style="background-color: rgba(255,255,255,0)" onclick="change_music_state()"></canvas>
+    <audio id="myAudio" crossorigin="anonymous"></audio>
+    <button class="mdl-button mdl-js-button mdl-button--accent add-btn" onclick="click_input()">
+      Upload Music
+    </button>
+    <!-- <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.11/lodash.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jsmediatags/3.9.3/jsmediatags.min.js"></script> -->
+    <script src="packages/lodash.min.js"></script>
+    <script src="packages/jsmediatags.min.js"></script>
+    <script src="music.js" charset="utf-8"></script>
+  </body>
+</html>
