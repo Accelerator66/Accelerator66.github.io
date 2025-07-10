@@ -12,9 +12,9 @@ Mail: fshi22@m.fudan.edu.cn &nbsp;&nbsp;&nbsp;&nbsp; Phone: (+86) 18905905766
 
 ### Career & Education History
 
-- PhD student &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fudan University Computer Science &nbsp;&nbsp;&nbsp;&nbsp; *2022 – Present*
-- MS student &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fudan University Computer Science &nbsp;&nbsp;&nbsp;&nbsp; *2019 – 2022*
-- Undergrad student	&nbsp;&nbsp;&nbsp;&nbsp; Fudan University Computer Science &nbsp;&nbsp;&nbsp;&nbsp; *2015 – 2019*
+- PhD student &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fudan University &nbsp;&nbsp;&nbsp;&nbsp; Computer Science &nbsp;&nbsp;&nbsp;&nbsp; *2022 – Present*
+- MS student &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fudan University &nbsp;&nbsp;&nbsp;&nbsp; Computer Science &nbsp;&nbsp;&nbsp;&nbsp; *2019 – 2022*
+- Undergrad student	&nbsp;&nbsp;&nbsp;&nbsp; Fudan University &nbsp;&nbsp;&nbsp;&nbsp; Computer Science &nbsp;&nbsp;&nbsp;&nbsp; *2015 – 2019*
 
 
 <!--
@@ -39,11 +39,11 @@ Mail: fshi22@m.fudan.edu.cn &nbsp;&nbsp;&nbsp;&nbsp; Phone: (+86) 18905905766
 负责研究基于深度神经网络的监督分类模型、针对少量有关键特征点标记数据的半监督关键特征点回归模型；负责研究基于拓扑约束的医学影像关键特征点定位的半监督学习方法；负责项目材料撰写、参与项目的整体推进。
 -->
 
-## Publications
-- **F. Shi**, B. Li, and X. Xue. *Raven’s progressive matrices completion with latent gaussian process priors*. AAAI 2021. (CCF-A) [[Paper](https://arxiv.org/pdf/2103.12045)]
+### Publications
+- **F. Shi**, B. Li, and X. Xue. *Raven’s progressive matrices completion with latent gaussian process priors*. AAAI 2021. [[Paper](https://arxiv.org/pdf/2103.12045)]
 - **F. Shi**, B. Li, and X. Xue. *Compositional Law Parsing with Latent Random Functions*. ICLR 2023. [[Paper](https://arxiv.org/pdf/2209.09115)]
 - **F. Shi**, B. Li, and X. Xue. *Towards Generative Abstract Reasoning: Completing Raven’s Progressive Matrix via Rule Abstraction and Selection*. ICLR 2024. [[Paper](https://arxiv.org/pdf/2401.09966)]
-- **F. Shi**, B. Li, and X. Xue. *Beyond Task-Specific Reasoning: A Unified Conditional Generative Framework for Abstract Visual Reasoning*. ICML 2025. (CCF- A)
-- **F. Shi**, B. Li, and X. Xue. *Abstracting Concept-Changing Rules for Solving Raven’s Progressive Matrix Problems*. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). (中科院一区 Top, 一审，Major Revision) [[Paper](https://arxiv.org/pdf/2307.07734)]
-- **F. Shi**, H. Yu, B. Li, X. Xue. *CoLa: Chinese Character Decomposition with Compositional Latent Components*. NeurIPS 2025. (CCF-A, Under Review) [[Paper](https://arxiv.org/pdf/2506.03798)]
-- T. Chen, **F. Shi**, Y. Huang, J. Huang, B. Li, and X. Xue. *Unsupervised Object Identification from Multi-Viewpoint Scenes via Global Object-Centric Representations*. IEEE Transactions on Multimedia (TMM). (中科院一区, 审稿中)
+- **F. Shi**, B. Li, and X. Xue. *Beyond Task-Specific Reasoning: A Unified Conditional Generative Framework for Abstract Visual Reasoning*. ICML 2025.
+- **F. Shi**, B. Li, and X. Xue. *Abstracting Concept-Changing Rules for Solving Raven’s Progressive Matrix Problems*. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). (Under Review，Major Revision) [[Paper](https://arxiv.org/pdf/2307.07734)]
+- **F. Shi**, H. Yu, B. Li, X. Xue. *CoLa: Chinese Character Decomposition with Compositional Latent Components*. NeurIPS 2025. (Under Review) [[Paper](https://arxiv.org/pdf/2506.03798)]
+- T. Chen, **F. Shi**, Y. Huang, J. Huang, B. Li, and X. Xue. *Unsupervised Object Identification from Multi-Viewpoint Scenes via Global Object-Centric Representations*. IEEE Transactions on Multimedia (TMM). (Under Review)
