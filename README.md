@@ -16,6 +16,12 @@ Mail: fshi22@m.fudan.edu.cn &nbsp;&nbsp;&nbsp;&nbsp; Phone: (+86) 18905905766
 - MS student &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fudan University &nbsp;&nbsp;&nbsp;&nbsp; Computer Science &nbsp;&nbsp;&nbsp;&nbsp; *2019 – 2022*
 - Undergrad student	&nbsp;&nbsp;&nbsp;&nbsp; Fudan University &nbsp;&nbsp;&nbsp;&nbsp; Computer Science &nbsp;&nbsp;&nbsp;&nbsp; *2015 – 2019*
 
+### Review Experience
+
+- Reviewer for CVPR 2025
+- Reviewer for NeurIPS 2024, NeurIPS 2025
+- Reviewer for ICML 2025
+- Reviewer for ICLR 2025
 
 <!--
 # 科研经历
