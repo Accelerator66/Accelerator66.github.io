@@ -1,18 +1,21 @@
 # Fan Shi
 
-I am a Ph.D. candidate in the School of Computer Science, Fudan University, China. I received my B.Sc. and M.Sc. in computer science from Fudan University, China. I am under the supervision of [Prof. Bin Li](https://aimpressionist.github.io/). My research interests include abstract visual reasoning, object-centric representation learning, and deep generative models.
+<img align="right" src="icon.jpg" width="300px"> I am a Ph.D. candidate in the School of Computer Science, Fudan University, China. I received my B.Sc. and M.Sc. in computer science from Fudan University, China. I am under the supervision of [Prof. Bin Li](https://aimpressionist.github.io/).
 
-Mail: fshi22@m.fudan.edu.cn
+Mail: fshi22@m.fudan.edu.cn &nbsp;&nbsp;&nbsp;&nbsp; Phone: (+86) 18905905766
 
-Phone: (+86) 18905905766
+### Expertise
 
-## Career & Education History
+- Abstract Visual Reasoning
+- Object-Centric Representation Learning
+- Deep Latent Variable Models
 
-2022 – Pres PhD student	Fudan University Computer Science
+### Career & Education History
 
-2019 – 2022 MS student	Fudan University Computer Science
+- PhD student &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fudan University Computer Science &nbsp;&nbsp;&nbsp;&nbsp; *2022 – Present*
+- MS student &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fudan University Computer Science &nbsp;&nbsp;&nbsp;&nbsp; *2019 – 2022*
+- Undergrad student	&nbsp;&nbsp;&nbsp;&nbsp; Fudan University Computer Science &nbsp;&nbsp;&nbsp;&nbsp; *2015 – 2019*
 
-2015 – 2019	Undergrad student	Fudan University Computer Science
 
 <!--
 # 科研经历
@@ -37,10 +40,10 @@ Phone: (+86) 18905905766
 -->
 
 ## Publications
-- **F. Shi**, B. Li, and X. Xue. *Raven’s progressive matrices completion with latent gaussian process priors*. AAAI 2021. (CCF-A)
-- **F. Shi**, B. Li, and X. Xue. *Compositional Law Parsing with Latent Random Functions*. ICLR 2023.
-- **F. Shi**, B. Li, and X. Xue. *Towards Generative Abstract Reasoning: Completing Raven’s Progressive Matrix via Rule Abstraction and Selection*. ICLR 2024.
+- **F. Shi**, B. Li, and X. Xue. *Raven’s progressive matrices completion with latent gaussian process priors*. AAAI 2021. (CCF-A) [[Paper](https://arxiv.org/pdf/2103.12045)]
+- **F. Shi**, B. Li, and X. Xue. *Compositional Law Parsing with Latent Random Functions*. ICLR 2023. [[Paper](https://arxiv.org/pdf/2209.09115)]
+- **F. Shi**, B. Li, and X. Xue. *Towards Generative Abstract Reasoning: Completing Raven’s Progressive Matrix via Rule Abstraction and Selection*. ICLR 2024. [[Paper](https://arxiv.org/pdf/2401.09966)]
 - **F. Shi**, B. Li, and X. Xue. *Beyond Task-Specific Reasoning: A Unified Conditional Generative Framework for Abstract Visual Reasoning*. ICML 2025. (CCF- A)
-- **F. Shi**, B. Li, and X. Xue. *Abstracting Concept-Changing Rules for Solving Raven’s Progressive Matrix Problems*. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). (中科院一区 Top, 一审，Major Revision)
-- **F. Shi**, H. Yu, B. Li, X. Xue. *CoLa: Chinese Character Decomposition with Compositional Latent Components*. NeurIPS 2025. (CCF-A, Under Review)
+- **F. Shi**, B. Li, and X. Xue. *Abstracting Concept-Changing Rules for Solving Raven’s Progressive Matrix Problems*. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). (中科院一区 Top, 一审，Major Revision) [[Paper](https://arxiv.org/pdf/2307.07734)]
+- **F. Shi**, H. Yu, B. Li, X. Xue. *CoLa: Chinese Character Decomposition with Compositional Latent Components*. NeurIPS 2025. (CCF-A, Under Review) [[Paper](https://arxiv.org/pdf/2506.03798)]
 - T. Chen, **F. Shi**, Y. Huang, J. Huang, B. Li, and X. Xue. *Unsupervised Object Identification from Multi-Viewpoint Scenes via Global Object-Centric Representations*. IEEE Transactions on Multimedia (TMM). (中科院一区, 审稿中)
