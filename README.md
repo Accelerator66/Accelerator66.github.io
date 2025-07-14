@@ -45,7 +45,7 @@ Mail: fshi22@m.fudan.edu.cn &nbsp;&nbsp;&nbsp;&nbsp; Phone: (+86) 18905905766
 负责研究基于深度神经网络的监督分类模型、针对少量有关键特征点标记数据的半监督关键特征点回归模型；负责研究基于拓扑约束的医学影像关键特征点定位的半监督学习方法；负责项目材料撰写、参与项目的整体推进。
 -->
 
-### Publications
+### Research & Publication
 - **F. Shi**, B. Li, and X. Xue. *Raven’s progressive matrices completion with latent gaussian process priors*. AAAI 2021. [[Paper](https://arxiv.org/pdf/2103.12045)]
 - **F. Shi**, B. Li, and X. Xue. *Compositional Law Parsing with Latent Random Functions*. ICLR 2023. [[Paper](https://arxiv.org/pdf/2209.09115)]
 - **F. Shi**, B. Li, and X. Xue. *Towards Generative Abstract Reasoning: Completing Raven’s Progressive Matrix via Rule Abstraction and Selection*. ICLR 2024. [[Paper](https://arxiv.org/pdf/2401.09966)]
