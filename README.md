@@ -46,10 +46,11 @@ Mail: fshi22@m.fudan.edu.cn &nbsp;&nbsp;&nbsp;&nbsp; Phone: (+86) 18905905766
 -->
 
 ### Research & Publication
-- **F. Shi**, B. Li, and X. Xue. *Raven’s progressive matrices completion with latent gaussian process priors*. AAAI 2021. [[Paper](https://arxiv.org/pdf/2103.12045)]
-- **F. Shi**, B. Li, and X. Xue. *Compositional Law Parsing with Latent Random Functions*. ICLR 2023. [[Paper](https://arxiv.org/pdf/2209.09115)]
-- **F. Shi**, B. Li, and X. Xue. *Towards Generative Abstract Reasoning: Completing Raven’s Progressive Matrix via Rule Abstraction and Selection*. ICLR 2024. [[Paper](https://arxiv.org/pdf/2401.09966)]
-- **F. Shi**, B. Li, and X. Xue. *Beyond Task-Specific Reasoning: A Unified Conditional Generative Framework for Abstract Visual Reasoning*. ICML 2025.
-- **F. Shi**, B. Li, and X. Xue. *Abstracting Concept-Changing Rules for Solving Raven’s Progressive Matrix Problems*. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). (Under Review，Major Revision) [[Paper](https://arxiv.org/pdf/2307.07734)]
+
+- **F. Shi**, B. Li, and X. Xue. *Raven’s progressive matrices completion with latent gaussian process priors*. AAAI 2021. [[Paper](https://arxiv.org/pdf/2103.12045)] [[Code](https://github.com/FudanVI/generative-abstract-reasoning/tree/main/rpm-lgpp)]
+- **F. Shi**, B. Li, and X. Xue. *Compositional Law Parsing with Latent Random Functions*. ICLR 2023. [[Paper](https://arxiv.org/pdf/2209.09115)] [[Code](https://github.com/FudanVI/generative-abstract-reasoning/tree/main/clap)]
+- **F. Shi**, B. Li, and X. Xue. *Towards Generative Abstract Reasoning: Completing Raven’s Progressive Matrix via Rule Abstraction and Selection*. ICLR 2024. [[Paper](https://arxiv.org/pdf/2401.09966)] [[Code](https://github.com/FudanVI/generative-abstract-reasoning/tree/main/raise)]
+- **F. Shi**, B. Li, and X. Xue. *Beyond Task-Specific Reasoning: A Unified Conditional Generative Framework for Abstract Visual Reasoning*. ICML 2025. [[Paper](https://arxiv.org/pdf/2507.11761)] [[Code](https://github.com/FudanVI/generative-abstract-reasoning/tree/main/ucgs)]
+- **F. Shi**, B. Li, and X. Xue. *Abstracting Concept-Changing Rules for Solving Raven’s Progressive Matrix Problems*. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). (Under Review，Major Revision) [[Paper](https://arxiv.org/pdf/2307.07734)] [[Code](https://github.com/FudanVI/generative-abstract-reasoning/tree/main/crab)]
 - **F. Shi**, H. Yu, B. Li, X. Xue. *CoLa: Chinese Character Decomposition with Compositional Latent Components*. NeurIPS 2025. (Under Review) [[Paper](https://arxiv.org/pdf/2506.03798)]
 - T. Chen, **F. Shi**, Y. Huang, J. Huang, B. Li, and X. Xue. *Unsupervised Object Identification from Multi-Viewpoint Scenes via Global Object-Centric Representations*. IEEE Transactions on Multimedia (TMM). (Under Review)
